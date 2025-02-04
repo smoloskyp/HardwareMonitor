@@ -20,7 +20,8 @@ HardwareMonitor is a graphical application for viewing information about a compu
 ## Usage Example
 After launching the program, a window will open displaying detailed information about your computer's hardware.
 
-![image](https://github.com/user-attachments/assets/fd6eab67-38e2-4c46-b68c-3e4dd7b1b8eb)
+![image](https://github.com/user-attachments/assets/d16fde00-84d8-40bd-81d0-f59d3f95dd73)
+
 
 
 ## Technologies
